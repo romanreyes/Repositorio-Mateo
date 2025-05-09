@@ -24,5 +24,5 @@ int main() {
     mostrar_vectores(&p); // mostramos los vectores
     liberar_memoria(&p); // liberamos la memoria asignada a los vectores
    fclose(a); 
-   return 0;
+   return 0;// hola Gusti
 }
